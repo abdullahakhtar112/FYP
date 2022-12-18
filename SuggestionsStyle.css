@@ -34,6 +34,7 @@ nav{
     background-color: black;
     font-family: 'Raleway', sans-serif;
     border-radius: 8px;
+    overflow: hidden;
 
 }
 #right
@@ -43,6 +44,7 @@ nav{
     font-family: 'Raleway', sans-serif;
     background-color: white;
     border-radius: 8px;
+    overflow: hidden;
 
 }
 #input1{
